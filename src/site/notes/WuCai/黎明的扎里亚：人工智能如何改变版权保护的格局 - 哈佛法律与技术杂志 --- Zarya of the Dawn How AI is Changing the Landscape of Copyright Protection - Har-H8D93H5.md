@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wu-cai/zarya-of-the-dawn-how-ai-is-changing-the-landscape-of-copyright-protection-har-h8-d93-h5/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/WuCai/黎明的扎里亚：人工智能如何改变版权保护的格局 - 哈佛法律与技术杂志 --- Zarya of the Dawn How AI is Changing the Landscape of Copyright Protection - Har-H8D93H5/","dgPassFrontmatter":true}
 ---
 
 
