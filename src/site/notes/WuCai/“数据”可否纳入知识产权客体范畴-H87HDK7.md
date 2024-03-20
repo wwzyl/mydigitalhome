@@ -1,15 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/WuCai/“数据”可否纳入知识产权客体范畴-H87HDK7/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/WuCai/“数据”可否纳入知识产权客体范畴-H87HDK7/","dgPassFrontmatter":true}
 ---
 
-标题: “数据”可否纳入知识产权客体范畴?
-作者: 
-tags: 
-原文链接: http://kns.cnki.net.libproxy.v.zzu.edu.cn/KXReader/Detail?invoice=t7oE1kiARon2rYKnjePnUIGPPxlLpy7IsWk0q7rG6Fi9JB6gija6%2FYGf7fKqOvtKRmJ1z%2B4TIKQhj5Ynt%2Bsd9OI38TxXk1JTmA666x6N5SOhcSy1wlnTHvFMaE9nhyXkZYlONmeaxvFUK7vrTvbhJ3eR5cCZw%2BCXxckbSVl%2FKrk%3D&DBCODE=CJFQ&FileName=ZFLC202401011&TABLEName=cjfdauto&nonce=E834B21E6FC342918F9B81BC81343B8F&TIMESTAMP=1707656609410&uid=
-五彩链接: https://marker.dotalk.cn/#/?noteidx=H87HDK7
-创建时间: 2024-02-11 21:12
-更新时间: 2024-02-18 20:06
----
 
 ## “数据”可否纳入知识产权客体范畴? 
 
