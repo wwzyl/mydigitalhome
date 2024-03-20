@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wu-cai/h87-hdk-7/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/WuCai/“数据”可否纳入知识产权客体范畴-H87HDK7/","dgPassFrontmatter":true}
 ---
 
 标题: “数据”可否纳入知识产权客体范畴?
